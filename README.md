@@ -1,6 +1,6 @@
 # Recursive fractal tree
 
-To run the project download all .pde files and put them under a folder called "Origin"
+To run the project clone the repository inside a folder called "Origin"
 
 p5js version on Netlify: https://awesome-mcnulty-5357d0.netlify.app/ <br/>
 Refresh the page to get a different result<br/>
